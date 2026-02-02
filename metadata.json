@@ -1,0 +1,5 @@
+{
+  "name": "One Tapp Chatbot",
+  "description": "A chatbot that sends user input to a configurable webhook, then uses Gemini to structure the webhook's response into a human-readable format. Includes a settings panel to change the webhook URL.",
+  "requestFramePermissions": []
+}
